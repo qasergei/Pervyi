@@ -1,2 +1,0 @@
-# Pervyi
-Uchebnyi Repozitoriy
